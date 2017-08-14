@@ -1,1 +1,2 @@
-I added this page so I can edit the text in each version for news from github it's preety cool.
+I added this page so I can edit the text in each version for news
+from github it's pretty cool.
