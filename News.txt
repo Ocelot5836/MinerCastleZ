@@ -4,4 +4,6 @@ from github it's pretty cool.
 Sunday, August 13, 2017; 6:19 PM
 Sadly I may not be able to work on this every day because of school.
 As you probably know school is higher priority than coding or
-computer. As such I may not be able to code on some days.
+computer. As such I may not be able to code on some days. I have
+also decided to add a webhook to the discord so you can see every
+time it updates to read it!
