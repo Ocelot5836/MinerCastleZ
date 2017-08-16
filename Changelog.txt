@@ -1,3 +1,38 @@
+0.1.9 Pre-Alpha
+-made the version more noticeable
+-added poop
+-rabbits now poop sometimes
+-added the ability to enable whether entity names will be displayed when hovered over
+-added the ability to specify r g and b from 0-5 in options for color
+ex.(000=black,555=white,500=red,050=green,005=blue)
+-press 'P' to poop!
+-thought makes more sense for particles to show the block being broken and not the new tile being placed
+
+0.2.0 Pre-Alpha
+-added trees
+-small UI changes
+-fixed the score
+-re-added the custom cursor
+-the game will now not update or render when not using the window
+
+0.2.1 Pre-Alpha
+-fixed the issue where text tool tips will render over each other when highlighting them
+-made the renderer draw the player text at the same time as other text
+-fireworks now have collision
+-fireworks now actually move and it's not just a visual trick
+-fireworks explode on impact with anything
+-added a new tile... Stone Tile
+-small particle tweaks
+-changed the images in the launcher
+-fixed launcher FPS
+
+0.2.2 Pre-Alpha
+-added news button in the launcher
+-added the ability to pull news data from a file online so from now on it will always be updated
+
 0.2.3 Pre-Alpha
 -moved the changelog online so I can keep a record of it
 -fixed the issue where news would not show up the first time the window was opened
+-added the game version to the launcher
+-added another slider for sfx
+-changed the displayed number from 0 to -50 to 0% to 100%
