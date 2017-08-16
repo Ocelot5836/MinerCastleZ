@@ -1,2 +1,3 @@
 0.2.3 Pre-Alpha
+-moved the changelog online so I can keep a record of it
 -fixed the issue where news would not show up the first time the window was opened
