@@ -36,3 +36,4 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 -added the game version to the launcher
 -added another slider for sfx
 -changed the displayed number from 0 to -50 to 0% to 100%
+-readded the cursor selecting option
