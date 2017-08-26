@@ -45,3 +45,7 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 0.2.5 Pre Alpha
 -reworked the gui engine
 -allowed for external gui images
+-added slots
+-added a test inventory, press 'I' for the gui
+-depricated Colors.get(color1, color2, color3, color4) and changed it into a new class that allows me to add lighting
+-optimized much of the game's code
