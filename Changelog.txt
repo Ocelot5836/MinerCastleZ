@@ -41,3 +41,7 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 -readded the cursor selecting option
 -added a version checker
 -other small changes
+
+0.2.5 Pre Alpha
+-reworked the gui engine
+-allowed for external gui images
