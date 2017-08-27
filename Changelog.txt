@@ -49,3 +49,10 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 -added a test inventory, press 'I' for the gui
 -depricated Colors.get(color1, color2, color3, color4) and changed it into a new class that allows me to add lighting
 -optimized much of the game's code
+
+0.2.6 Pre-Alpha
+-fixed issue where image was being slightly stretched due to errors in methods
+-the cursor is now in direct alignment with the screen!
+-added a hotbar
+-removed the temporary tile stuff in the corner
+-removed the second tile slot

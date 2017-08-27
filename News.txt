@@ -7,3 +7,6 @@ time it updates to read it!
 
 Monday, August 14, 2017; 3:02 PM
 This game will be in heavy development from now on to try to improve the graphics as well as other aspects of the game.
+
+Sunday, August 27, 2017; 11:23 AM
+I will not be releasing updates anymore for a while because I am going to be rebuilding the engine so I can make the game better than before.
