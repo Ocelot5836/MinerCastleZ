@@ -9,4 +9,13 @@ Monday, August 14, 2017; 3:02 PM
 This game will be in heavy development from now on to try to improve the graphics as well as other aspects of the game.
 
 Sunday, August 27, 2017; 11:23 AM
-I will not be releasing updates anymore for a while because I am going to be rebuilding the engine so I can make the game better than before.
+I will not be releasing updates anymore for a while because I am going to be rebuilding the engine so I can make the game better 
+than before.
+
+Friday, September 22, 2017; 4:34 PM
+UPDATE TIME!!
+I have decided that the basic java engine is ok for what it is. It simply started as a test to practice problem solving and coding.
+I have been working very hard on adding multiplayer support into the game! I wish to change the saving format soon because the png
+files are too large and will not work for what I desire. I will potentially be moving to a txt kind of file to save the workd as
+because it's more stable to use ids instead of using colors. That does mean however, that I can no longer change ids without world
+corruption. Just giving you a heads up to what's going on!

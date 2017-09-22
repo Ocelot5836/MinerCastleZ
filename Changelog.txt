@@ -56,3 +56,9 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 -added a hotbar
 -removed the temporary tile stuff in the corner
 -removed the second tile slot
+
+0.2.7 Pre-Alpha
+-added multiplayer support
+-small code tweaks
+-removed saving of players sadly
+-removed the score saving, I need to change this for multiplayer.
