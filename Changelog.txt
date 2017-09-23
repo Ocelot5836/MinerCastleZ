@@ -61,4 +61,10 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 -added multiplayer support
 -small code tweaks
 -removed saving of players sadly
--removed the score saving, I need to change this for multiplayer.
+-removed the score saving, I need to change this for multiplayer
+
+0.2.8 Pre-Alpha
+-fixed issue where if the world was missing, the game didn't try to create a new save
+-added a new tile! White Concrete
+-finished the moving packet. Players now move correctly!
+-small performance boosts
