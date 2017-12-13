@@ -19,3 +19,8 @@ I have been working very hard on adding multiplayer support into the game! I wis
 files are too large and will not work for what I desire. I will potentially be moving to a txt kind of file to save the workd as
 because it's more stable to use ids instead of using colors. That does mean however, that I can no longer change ids without world
 corruption. Just giving you a heads up to what's going on!
+
+Wednesday, December 13, 2017; 3:53 PM
+The game will now be fixed and will be slowly worked on over the next few weeks. I hope to get some major updates out before christmas
+so you guys can check it all out. I want this game to go somewhere, but I don't yet know the direction to go into. What should this
+game become? Tell me in the discord!
