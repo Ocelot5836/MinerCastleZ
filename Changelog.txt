@@ -68,3 +68,8 @@ ex.(000=black,555=white,500=red,050=green,005=blue)
 -added a new tile! White Concrete
 -finished the moving packet. Players now move correctly!
 -small performance boosts
+
+0.3.0
+-made the game playable again
+-fixed a ton of critical bugs
+-implemented Ocelot Utils into the game
